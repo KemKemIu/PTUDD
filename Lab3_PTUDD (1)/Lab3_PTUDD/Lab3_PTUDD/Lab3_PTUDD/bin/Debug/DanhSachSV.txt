@@ -1,0 +1,5 @@
+B19DCCN001	Nguyen Van 	An	01/00/00	B19DCCN	123456789	987654321	123 Nguyen Trai	1	Toan,Van,Anh
+B19DCCN002	Tran Thi 	Thu	15/00/99	B19DCCN	987654321	123456789	456 Le Loi	Đ	Anh,Van
+B19DCCN003	Le Van 	Binh	20/00/01	B19DCCN	112233445	999888777	789 Tran Phu	1	Toan,Ly,Hoa
+sflfh	kgh 	dgd	25/13/25	7d	5573	97197	dgssg	1	Mạng máy tính
+;jlfgdg	kgh 	dgd	25/00/25	878	5573	97197	dgssg	1	Mạng máy tính

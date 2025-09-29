@@ -1,0 +1,38 @@
+Z:\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.exe.config
+Z:\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.exe
+Z:\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.pdb
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.AssemblyReference.cache
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.Properties.Resources.resources
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.GenerateResource.cache
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.CoreCompileInputs.cache
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.exe
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.pdb
+Z:\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.frmSinhVien.resources
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.exe.config
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.exe
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.pdb
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.AssemblyReference.cache
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.frmSinhVien.resources
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.Properties.Resources.resources
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.GenerateResource.cache
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.CoreCompileInputs.cache
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.exe
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.pdb
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Newtonsoft.Json.dll
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Newtonsoft.Json.xml
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.CopyComplete
+D:\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.frmReadJsonFile.resources
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.frmSinhVien.resources
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.frmReadJsonFile.resources
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.exe
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.pdb
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.exe.config
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.exe
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Lab3_PTUDD.pdb
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\Lab3_PTUDD (1)\Lab3_PTUDD\Lab3_PTUDD\Lab3_PTUDD\obj\Debug\Lab3_PTUDD.csproj.Up2Date
