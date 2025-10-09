@@ -1,0 +1,10 @@
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.csproj.AssemblyReference.cache
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.frmQuanLyNhaCungCap.resources
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.Properties.Resources.resources
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.csproj.GenerateResource.cache
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.csproj.CoreCompileInputs.cache
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\bin\Debug\PTUDD_DeKiemTra2_2312729.exe.config
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\bin\Debug\PTUDD_DeKiemTra2_2312729.exe
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\bin\Debug\PTUDD_DeKiemTra2_2312729.pdb
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.exe
+Z:\PTUDD_DeKiemTra2_2312729\PTUDD_DeKiemTra2_2312729\obj\Debug\PTUDD_DeKiemTra2_2312729.pdb
